@@ -1,2 +1,2 @@
 # HackerRank 
-doing HackerRank
+doing Hacker rank
